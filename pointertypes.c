@@ -16,20 +16,20 @@ int main()
     float *Float = &b;
 
     printf("FLOAT VALUES : %f,ADDRESS :%p\n",*Float,(void*)Float);
-    printf("FLOAT VALUES : %f,ADDRESS :%p\n",*Float,(void*)&b);
+   // printf("FLOAT VALUES : %f,ADDRESS :%p\n",*Float,(void*)&b);
 
 
     char c = 'A';
     char *Char = &c;
 
     printf("char VALUES : %c,ADDRESS :%p\n",*Char,(void*)Char);
-    printf("char VALUES : %c,ADDRESS :%p\n",*Char,(void*)&c);
+   // printf("char VALUES : %c,ADDRESS :%p\n",*Char,(void*)&c);
 
     double d = 20.99;
     double *Double = &d;
 
     printf("DOUBLE VALUES : %lf,ADDRESS :%p\n",*Double,(void*)Double);
-    printf("DOUBLE VALUES : %lf,ADDRESS :%p\n",*Double,(void*)&d);
+ //   printf("DOUBLE VALUES : %lf,ADDRESS :%p\n",*Double,(void*)&d);
 
     return 0;
 
