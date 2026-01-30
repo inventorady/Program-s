@@ -1,6 +1,6 @@
 
 /*  
-TITLE:WAP TO MAKE PATTERN USING
+TITLE:WAP TO MAKE PATTERN USING LOOP
        3  3  3
        2  2
        1
