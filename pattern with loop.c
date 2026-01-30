@@ -1,6 +1,6 @@
 
 /*  
-TITLE:WAP TO make PATTERN using loop
+TITLE:WAP TO MAKE PATTERN USING
        3  3  3
        2  2
        1
