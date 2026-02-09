@@ -32,7 +32,7 @@ int main() {
         scanf("%s", c[i].email);
     }
 
-    printf("\nContact List\n");
+    printf("\n *****  Contact List  *****\n");
     for (i = 0; i < n; i++) {
         printf("\nName: %s", c[i].name);
         printf("\nNumber: %s", c[i].number);
@@ -41,3 +41,4 @@ int main() {
 
     return 0;
 }
+
